@@ -1,2 +1,2 @@
 #!/bin/bash
-python sample_app.py
+python3 sample_app.py
